@@ -1,6 +1,7 @@
 Mudança do Thiago.
 
 
+<<<<<<< HEAD
 teste
 
 <<<<<<< HEAD
@@ -8,4 +9,7 @@ teste
 
 =======
 >>>>>>> 42fec91... Comentario adicionado
-// Comentário
+=======
+
+>>>>>>> 5c8c86b... Merge branch 'master' of github.com:mantonioc/teste_mantonio
+// Comentario
